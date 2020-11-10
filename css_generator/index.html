@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Generate</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+    <h1>Css Generator</h1>
+    <div class="wrapper-flex">
+        <div class="wrapper">
+            <div class="wrapper-top">
+                <div class="top-left-range">
+                    <input class="input" type="range" id="tlr" min="0" max="100" value="0">
+                    <div class="result" id="result-tlr">0</div>
+                </div>
+                <div class="top-right-range">
+                    <input class="input" type="range" id="trr" min="0" max="100" value="0">
+                    <div class="result" id="result-trr">0</div>
+                </div>
+            </div>
+            <div class="wrapper-middle">
+                <div id="cube">
+
+                </div>
+            </div>
+            <div class="wrapper-bottom">
+                <div class="bottom-left-range">
+                    <input class="input" type="range" id="blr" min="0" max="100" value="0">
+                    <div class="result" id="result-blr">0</div>
+                </div>
+                <div class="bottom-right-range">
+                    <input class="input" type="range" id="brr" min="0" max="100" value="0">
+                    <div class="result" id="result-brr">0</div>
+                </div>
+            </div>
+        </div>
+        <div class="total-rsult">
+            <button id="btn">Вычислить резултать:</button>
+            <span>border-radius: </span><span id="totalResult"></span>
+        </div>
+    </div>    
+
+    <script src="js/main.js"></script>
+</body>
+</html>
+
+<!-- JavaScript: Создаём свой CSS генератор -->
