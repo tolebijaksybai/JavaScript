@@ -1,6 +1,7 @@
 ### JavaScript 
 
 <h4 align="left">Вы здесь найдете все мойи проекты сделано в JavaScript</h4>
+<h4 align="left">Скрипт обратного отсчета на JS для сайта: <a href="https://tolebijaksybai.github.io/JavaScript/counter_Current_date/" target="_blank">Counter_Current_date</a></h4>
 <h4 align="left">Cсылка на Аuto Calculator: <a href="https://tolebijaksybai.github.io/JavaScript/auto_calculator/" target="_blank">Auto_calculator app</a></h4>
 <h4 align="left">Cсылка на Css Generator: <a href="https://tolebijaksybai.github.io/JavaScript/css_generator/" target="_blank">css_generator</a></h4>
 <h4 align="left">Cсылка на приложение Todo: <a href="https://tolebijaksybai.github.io/JavaScript/Todo_app/" target="_blank">Todo app</a></h4>
